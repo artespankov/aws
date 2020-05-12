@@ -1,4 +1,4 @@
-#SLS serverless framework examples
+# SLS serverless framework examples
 1. Install Serverless framework
 2. Create new IAM user profile and get credentials
 3. Configure Serverless framework
