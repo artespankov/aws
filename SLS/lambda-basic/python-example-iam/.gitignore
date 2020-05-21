@@ -16,5 +16,5 @@ var/
 .installed.cfg
 *.egg
 
-# Serverless directories
+# SLS STACK directories
 .serverless

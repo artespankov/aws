@@ -1,4 +1,4 @@
-# Welcome to Serverless!
+# Welcome to SLS STACK!
 #
 # This file is the main config file for your service.
 # It's very minimal at this point and uses default values.
@@ -13,7 +13,7 @@
 
 service: python-example-iam
 
-# You can pin your service to only deploy with a specific Serverless version
+# You can pin your service to only deploy with a specific SLS STACK version
 # Check out our docs for more details
 # frameworkVersion: "=X.X.X"
 

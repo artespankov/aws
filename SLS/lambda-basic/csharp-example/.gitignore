@@ -242,5 +242,5 @@ _Pvt_Extensions
 # JetBrains Rider C# IDE
 .idea*
 
-# Serverless directories
+# SLS STACK directories
 .serverless

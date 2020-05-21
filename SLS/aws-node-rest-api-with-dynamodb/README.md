@@ -1,5 +1,5 @@
 <!--
-title: 'AWS Serverless REST API example in NodeJS'
+title: 'AWS SLS STACK REST API example in NodeJS'
 description: 'This example demonstrates how to setup a RESTful Web Service allowing you to create, list, get, update and delete Todos. DynamoDB is used to store the data.'
 layout: Doc
 framework: v1
